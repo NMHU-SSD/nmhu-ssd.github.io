@@ -26,8 +26,11 @@ We are looking for a temporary new classroom in Albuquerque due to the construct
 - MART 4560 Physical Computing MW 2 - 3:50 pm
 
 ### Spring 2026
-- BSSD 4540 Data Visualization MW 11 - 12:15 pm 
-- CSCI 4630 Web Programming MW 12:30 - 1:45 pm 
 - CSCI 4710 Artificial Intelligence TR 9:30 - 10:45 am
+- BSSD 4350 ST:Fine Tuning LLMs with Python TR 11 - 12:15 pm 
+- BSSD 4150 Game Development TR 12:30 - 1:45 pm
+- BSSD 4540 Data Visualization MW 11 - 12:15 pm
+- CSCI 4630 Web Programming MW 12:30 - 1:45 pm
+  
 
 
