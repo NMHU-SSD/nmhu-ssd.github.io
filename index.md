@@ -30,7 +30,7 @@ We are looking for a temporary new classroom in Albuquerque due to the construct
 - CSCI 4590 Network Security TR 9:30 - 10:45 am
 - BSSD 3700 Interfaces TR 11 - 12:15 pm
 - BSSD 3410 Applied Algorithms & Architecture TR 12:30 - 1:45 pm
-- BSSD 3340 Practicum TR 2 - 3:15 pm
+- MART Screewnriting TR 3:30-5:20 pm
 - BSSD 3310 Web Applications MW 11 - 12:15 pm
 - CSCI 4510 Software Engineering MW 12:30 - 1:45 pm
 
