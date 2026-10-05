@@ -18,13 +18,6 @@ All courses offered online via zoom.
 We are looking for a temporary new classroom in Albuquerque due to the construction at our currnet location and will update you here when found.
 
 
-### Spring 2026
-- CSCI 4710 Artificial Intelligence TR 9:30 - 10:45 am
-- BSSD 4350 ST:Fine Tuning LLMs with Python TR 11 - 12:15 pm 
-- BSSD 4150 Game Development TR 12:30 - 1:45 pm
-- BSSD 4540 Data Visualization MW 11 - 12:15 pm
-- CSCI 4630 Web Programming MW 12:30 - 1:45 pm
-
 ### Fall 2026
   
 - CSCI 4590 Network Security TR 9:30 - 10:45 am
@@ -33,4 +26,11 @@ We are looking for a temporary new classroom in Albuquerque due to the construct
 - MART Screenwriting TR 3:30-5:20 pm
 - BSSD 3310 Web Applications MW 11 - 12:15 pm
 - CSCI 4510 Software Engineering MW 12:30 - 1:45 pm
+
+
+### Spring 2027
+
+- CSCI 4710 Artificial Intelligence TR 9:30 - 10:45 am
+- CSCI 4630 Web Programming MW 12:30 - 1:45 pm
+- Check Back for Remaining Course Times Soon
 
