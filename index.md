@@ -30,6 +30,7 @@ We are looking for a temporary new classroom in Albuquerque due to the construct
 
 ### Spring 2027
 
+- BSSD 4200/5300 Mobile Apps MW 10-11:15am
 - CSCI 4710 Artificial Intelligence TR 9:30 - 10:45 am
 - CSCI 4630 Web Programming MW 12:30 - 1:45 pm
 - Check Back for Remaining Course Times Soon
