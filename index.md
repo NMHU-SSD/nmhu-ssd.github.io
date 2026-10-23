@@ -26,12 +26,13 @@ We are looking for a temporary new classroom in Albuquerque due to the construct
 - MART Screenwriting TR 3:30-5:20 pm
 - BSSD 3310 Web Applications MW 11 - 12:15 pm
 - CSCI 4510 Software Engineering MW 12:30 - 1:45 pm
+- BSSD 4350/5350 UI/UX Design W 5:30-6:30 pm (1 credit hour)
 
 
 ### Spring 2027
-
-- BSSD 4200/5300 Mobile Apps MW 10-11:15am
-- CSCI 4710 Artificial Intelligence TR 9:30 - 10:45 am
-- CSCI 4630 Web Programming MW 12:30 - 1:45 pm
-- Check Back for Remaining Course Times Soon
-
+- CSCI 4710 Artificial Intelligence TR 9:30-10:45 am
+- BSSD Data Modeling TR 11-12:15 pm
+- BSSD Principles of Software Design TR 12:30-1:45 pm
+- BSSD 4200/5300 Mobile Apps MW 10-11:15 am
+- CSCI 4630 Web Programming MW 12:30-1:45 pm
+- BSSD Code for Community: Agile Development W 5:30-6:30 pm (1 credit hour)
